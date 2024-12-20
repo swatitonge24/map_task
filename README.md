@@ -24,10 +24,10 @@ To further enrich the application and display advanced technical capabilities, c
 
 Server-Side Rendering (SSR)
 
-Improve application performance and SEO by implementing SSR for preloading map data and rendering content server-side.
+Improved application performance and SEO by implementing SSR for preloading map data and rendering content server-side.
 Additional Data Integration
 
-Enrich the map experience by integrating data sources such as:
+Enriched the map experience by integrating data sources such as:
 Weather APIs to display real-time weather conditions for each location.
 User reviews or ratings from platforms like Yelp or Google Maps.
 Distance Calculation
